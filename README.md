@@ -9,7 +9,7 @@
 
 本项目是一个用于统计洗脚大学学生校园卡消费情况的脚本。通过模拟登录大学校园卡网站，获取学生的校园卡消费记录，并通过数据可视化的方式展示。
 
-本项目参考[THU-Annual-Eat](https://github.com/leverimmy/THU-Annual-Eat)，感谢原作者的贡献。
+本项目参考[THU-Annual-Eat](https://github.com/leverimmy/THU-Annual-Eat)，[PKU-Annual-Eat](https://github.com/zhuohaoyu/PKU-Annual-Eat)，感谢原作者的贡献。
 
 ![demo](./demo.png)
 
